@@ -1,0 +1,1 @@
+this read the file in notpad as text and display the output

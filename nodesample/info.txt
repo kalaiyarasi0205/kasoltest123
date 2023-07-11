@@ -1,0 +1,1 @@
+Solace PubSub+ is a powerful message broker that runs on any computer in a virtual machine or a container. Solace PubSub+ Cloud is a managed messaging as a service (MaaS) offering that lets developers easily tap into the power of Solace PubSub+ without installing, maintaining or upgrading messaging software.
